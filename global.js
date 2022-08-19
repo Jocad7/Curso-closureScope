@@ -7,3 +7,13 @@ function bestFruit(){
 };
 
 bestFruit();
+
+function countries(){
+    country = 'colombia';
+    console.log(country)
+}
+
+countries();
+console.log(country);
+
+
